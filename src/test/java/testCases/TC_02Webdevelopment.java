@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import PageObjects.PO_02WebdevelopmentPage;
 import testBase.BaseClass;
 
-public class TC_02Webdevelopment extends BaseClass{
+public class TC_02Webdevelopment extends TC_01CourseraPage{
 	
 	@Test(priority = 3,groups= {"regression"})
 	public void course_search() throws InterruptedException, IOException
