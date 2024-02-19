@@ -1,0 +1,30 @@
+12:19:57.088 [main] INFO  testCases.TC_04FormFilling - error message is displayed and captured .
+10:25:40.870 [main] INFO  testCases.TC_01CourseraPage -  starts to open coursera page.
+10:26:00.998 [main] INFO  testCases.TC_01CourseraPage -  survey alert is ignored.
+10:26:01.523 [main] INFO  testCases.TC_01CourseraPage - start to open coursera page.
+10:26:01.948 [main] INFO  testCases.TC_01CourseraPage - Coursera Page is successfully displayed.
+10:26:30.474 [main] INFO  testCases.TC_02Webdevelopment - start to search webdevelopment courses in search box .
+10:26:37.979 [main] INFO  testCases.TC_02Webdevelopment - searching of webdevelopment courses is done successfully.
+10:26:38.406 [main] INFO  testCases.TC_02Webdevelopment - starts to select level.
+10:26:41.554 [main] INFO  testCases.TC_02Webdevelopment - level is selected after searching webdevelopment.
+10:26:42.079 [main] INFO  testCases.TC_02Webdevelopment - starts to select language.
+10:26:42.918 [main] INFO  testCases.TC_02Webdevelopment - language is successfully selected.
+10:26:43.155 [main] INFO  testCases.TC_02Webdevelopment - starts to scroll up the page.
+10:26:43.180 [main] INFO  testCases.TC_02Webdevelopment - page is scrolled up successfully.
+10:26:43.578 [main] INFO  testCases.TC_02Webdevelopment - starts to display the first course course details.
+10:26:46.901 [main] INFO  testCases.TC_02Webdevelopment - first course details is displayed successfully.
+10:26:47.274 [main] INFO  testCases.TC_02Webdevelopment - starts to display the second course course details.
+10:26:48.630 [main] INFO  testCases.TC_02Webdevelopment - second course details is displayed successfully.
+10:27:20.275 [main] INFO  testCases.TC_03LanguageLearning - starts to search language learning .
+10:27:36.695 [main] INFO  testCases.TC_03LanguageLearning - successfully searched language learning .
+10:27:37.211 [main] INFO  testCases.TC_03LanguageLearning - starts to filter courses by selecting different level and language .
+10:29:02.720 [main] INFO  testCases.TC_03LanguageLearning - first language and different levels  are selected .
+10:30:19.044 [main] INFO  testCases.TC_03LanguageLearning - second language and different levels are selected .
+10:31:33.921 [main] INFO  testCases.TC_03LanguageLearning - third language and different levels are  selected .
+10:32:48.201 [main] INFO  testCases.TC_03LanguageLearning - fourth language and different levels are  selected .
+10:34:02.446 [main] INFO  testCases.TC_03LanguageLearning - fifth language and different levels are selected .
+10:35:50.005 [main] INFO  testCases.TC_04FormFilling - start to navigate to home page.
+10:35:50.577 [main] INFO  testCases.TC_04FormFilling - successfully navigate to home page.
+10:35:52.308 [main] INFO  testCases.TC_04FormFilling - start to navigate to form.
+10:36:02.593 [main] INFO  testCases.TC_04FormFilling - starts to fill the form.
+10:36:12.901 [main] INFO  testCases.TC_04FormFilling - starts to display and capture error message .
