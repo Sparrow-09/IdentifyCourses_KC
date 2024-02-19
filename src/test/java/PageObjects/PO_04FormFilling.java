@@ -89,7 +89,10 @@ public class PO_04FormFilling extends BasePage{
 		Select ss7 =  new Select(stateEle);
 		ss7.selectByValue("Karnataka");
 		
-		submitElement.click();
+		JavascriptExecutor js = (JavascriptExecutor)driver;
+		js.executeScript("arguments[0].click();", submitElement);
+		
+//		submitElement.click();
 		fluentWait(errElement);
 		JavascriptExecutor jsExecutor = (JavascriptExecutor)driver;
 		jsExecutor.executeScript("arguments[0].scrollIntoView(true);", workemailEle);
