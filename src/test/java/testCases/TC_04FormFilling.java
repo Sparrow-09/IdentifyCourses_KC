@@ -8,7 +8,7 @@ import PageObjects.PO_04FormFilling;
 import testBase.BaseClass;
 
 
-public class TC_04FormFilling extends BaseClass {
+public class TC_04FormFilling extends TC_03LanguageLearning {
 	
 	@Test(priority = 11,groups= {"testcase"})
 	public void Enterprise()
