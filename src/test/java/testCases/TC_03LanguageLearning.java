@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import PageObjects.PO_03LanguageLearning;
 import testBase.BaseClass;
 
-public class TC_03LanguageLearning extends BaseClass {
+public class TC_03LanguageLearning extends TC_02Webdevelopment {
 	
 	@Test(priority = 9,groups= {"master"})
 	public void search_Language()
