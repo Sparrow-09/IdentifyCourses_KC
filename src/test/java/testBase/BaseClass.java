@@ -36,7 +36,7 @@ public class BaseClass {
 	public void setup(String os, String br) throws InterruptedException, IOException
 	{
 		//loading properties file
-		FileReader file=new FileReader("C:\\Users\\2303532\\eclipse-workspace\\MyHackathon 4\\MyHackathon\\src\\test\\resources\\config.properties");
+		FileReader file=new FileReader("C:\\Users\\2303532\\eclipse-workspace\\MyHackathon\\src\\test\\resources\\config.properties");
 		 p=new Properties();
 		 p.load(file);
 		
